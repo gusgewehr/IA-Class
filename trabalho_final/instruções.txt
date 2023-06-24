@@ -1,0 +1,11 @@
+a profe fez o artigo dela com regressão, mas nos precisamos fazeer com os algoritmos de classificação
+
+30/06 - regressão e salvar o modela
+
+7/07 - agrupamento
+
+14/07- apresentação e entrega
+	destrinchar o código
+	mostrar como fez
+	qual algoritmo foi melhor
+	matriz de confusao
